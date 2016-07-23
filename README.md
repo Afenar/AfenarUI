@@ -13,6 +13,7 @@
     		- Priest_Essential (Every save\movement\rare procs buffs on you)
     		- So for other classes you can find some different groupes, and much more(like with druids)
   	- Enter "Shadow" Folder and copy all string the same way.
+  	
 	Rus:
   	Здесь Вы найдёте все строки для импорта в аддон WeakAuras2 ВСЕХ классов и спеков. Сюда входят ротации, контроли, сейвы, утилити.
 
