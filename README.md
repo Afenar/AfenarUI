@@ -8,7 +8,7 @@ Next you should go to your /wa in game, select "New Indication", you will see "i
 string from this GitHub. Wait for about 10 seconds, press "import" somewhere on your dekstop, so that's it ^_^.
 
 Importation Process:
-For Excample, you would like to choose a Shadow Prirest.
+For Excample, you would like to choose a Shadow Priest.
 - Enter "PriestUI".
 - Copy all the groupes in this Main folder(no exceptions):
  	- Priest_CC(All CC and PvP dmg abilities for Priest Class)
