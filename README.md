@@ -1,4 +1,5 @@
 Eng:
+
 There're all useful strings for importing to WeakAuras2 for ALL specs and classes in this branch. All utilities, CC's,
 rotations, essentials for every class in WoW.
  
@@ -17,6 +18,7 @@ For Excample, you would like to choose a Shadow Prirest.
 - Enter "Shadow" Folder and copy all string the same way.
   	
 Rus:
+
 Здесь Вы найдёте все строки для импорта в аддон WeakAuras2 ВСЕХ классов и спеков. Сюда входят ротации, контроли, сейвы,
 утилити.
 
