@@ -16,7 +16,7 @@ For Excample, you would like to choose a Shadow Priest.
     	- Priest_Essential (Every save\movement\rare procs buffs on you)
     	- So for other classes you can find some different groupes, and much more(like with druids)
 - Enter "Shadow" Folder and copy all string the same way.
-- 
+
 If you'd like to support my enthusiasm ^_^: https://www.paypal.me/Afenar or wmz:Z208490309215
   	
 Rus:
