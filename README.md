@@ -16,6 +16,8 @@ For Excample, you would like to choose a Shadow Priest.
     	- Priest_Essential (Every save\movement\rare procs buffs on you)
     	- So for other classes you can find some different groupes, and much more(like with druids)
 - Enter "Shadow" Folder and copy all string the same way.
+- 
+If you'd like to support my enthusiasm ^_^: https://www.paypal.me/Afenar or wmz:Z208490309215
   	
 Rus:
 
@@ -35,3 +37,5 @@ Rus:
 	- Priest_Essential(Важная группа сейвов\редких проков под ногами вашего чара)
 	- Так же там могут быть комбо-поинты, разные энергии и прочее у других классов, следует копировать ВСЁ.
 - Заходим в папку с Shadow и импортируем к себе оттуда всё строки по такой же аналогии.
+
+Если хотите поддержать мой энтузиазм :) https://www.paypal.me/Afenar или wmr:R401080485991
