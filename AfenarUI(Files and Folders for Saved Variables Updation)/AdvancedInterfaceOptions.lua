@@ -1,2 +1,0 @@
-
-AdvancedInterfaceOptionsSaved = nil
