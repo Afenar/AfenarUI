@@ -1,4 +1,5 @@
 Eng:
+
 Hello, My name is Afenar@Lich-King(Warsong\Shadowmoon).
 
 There're all useful strings for importing to WeakAuras2 for ALL specs and classes in this branch. All utilities, CC's,
@@ -21,6 +22,7 @@ For Excample, you would like to choose a Shadow Priest.
 If you'd like to support my enthusiasm ^_^: https://www.paypal.me/Afenar or wmz:Z208490309215
   	
 Rus:
+
 Добрый день, меня зовут Афенар@Король-лич(Варсонг\Шадоумун).
 
 Здесь Вы найдёте все строки для импорта в аддон WeakAuras2 ВСЕХ классов и спеков. Сюда входят ротации, контроли, сейвы,
