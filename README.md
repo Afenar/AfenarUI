@@ -12,7 +12,7 @@ string from this GitHub. Wait for about 10 seconds, press "import" somewhere on 
 Importation Process:
 For Excample, you would like to choose a Shadow Priest.
 - Enter "PriestUI".
-- Copy all the groupes in this Main folder(no exceptions):
+- Copy all groups from this Main folder(no exceptions):
  	- Priest_CC(All CC and PvP dmg abilities for Priest Class)
     	- Priest_Utilites (All utilities, saves, movement CDs, long CDs etc)
     	- Priest_Essential (Every save\movement\rare procs buffs on you)
