@@ -1,6 +1,6 @@
 Eng:
 
-Hello, My name is Afenar@Lich-King(Warsong\Shadowmoon).
+Hello, My name is Afenar@Lich-King(Warsong\Shadowmoon) Btag Afenar#2323.
 
 There're all useful strings for importing to WeakAuras2 for ALL specs and classes in this branch. All utilities, CC's,
 rotations, essentials for every class in WoW.
@@ -23,7 +23,7 @@ If you'd like to support my enthusiasm ^_^: https://www.paypal.me/Afenar or wmz:
   	
 Rus:
 
-Добрый день, меня зовут Афенар@Король-лич(Варсонг\Шадоумун).
+Добрый день, меня зовут Афенар@Король-лич(Варсонг\Шадоумун) Btag Afenar#2323.
 
 Здесь Вы найдёте все строки для импорта в аддон WeakAuras2 ВСЕХ классов и спеков. Сюда входят ротации, контроли, сейвы,
 утилити.
