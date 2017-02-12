@@ -4,7 +4,9 @@ Hello, My name is Afenar@Lich-King(Warsong\Shadowmoon) Btag Afenar#2323.
 
 There're all useful strings for importing to WeakAuras2 for ALL specs and classes in this branch. All utilities, CC's,
 rotations, essentials for every class in WoW.
- 
+
+!!!INSTALL OmniCC Addon\analogue!!!
+
 To import strings to your addon, you should click "RAW" and select all the text with CTRL+A and copy it with CTRL+C.
 Next you should go to your /wa in game, select "New Indication", you will see "import" option down there - push it and copy
 string from this GitHub. Wait for about 10 seconds, press "import" somewhere on your dekstop, so that's it ^_^.
@@ -27,6 +29,8 @@ Rus:
 
 Здесь Вы найдёте все строки для импорта в аддон WeakAuras2 ВСЕХ классов и спеков. Сюда входят ротации, контроли, сейвы,
 утилити.
+
+!!!ОБЯЗАТЕЛЬНО УСТАНОВИТЕ АДДОН OmniCC или аналог!!!
 
 Для импорта в свой аддон просто кликаем на RAW, над самой строкой, выделяем всё - CTRL+A, копируем CTRL+C.
 Далее, заходим в Weakauras2 - /wa в игре, выбираем "новая индикация" и импорт, в самом низу, - туда и копируем строку, ждём от 1
