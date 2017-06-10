@@ -1,10 +1,13 @@
 Eng:
 
+
 If you'd like to support my enthusiasm ^_^:
 
 PayPal - https://www.paypal.me/Afenar
 
 WMZ -  Z208490309215
+
+
 
 Hello, My name is Afenar@Lich-King(Warsong\Shadowmoon) Btag Afenar#2323.
 
@@ -26,14 +29,19 @@ For Excample, you would like to choose a Shadow Priest.
     	- Priest_Essential (Every save\movement\rare procs buffs on you)
     	- So for other classes you can find some different groupes, and much more(like with druids)
 - Enter "Shadow" Folder and copy all string the same way.
- 	
+
+
+
 Rus:
+
 
 Если хотите поддержать мой энтузиазм ^_^:
 
 PayPal - https://www.paypal.me/Afenar
 
 WMR - R401080485991
+
+
 
 Добрый день, меня зовут Афенар@Король-лич(Варсонг\Шадоумун) Btag Afenar#2323.
 
