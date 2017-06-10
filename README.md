@@ -3,7 +3,9 @@ Eng:
 If you'd like to support my enthusiasm ^_^:
 
 PayPal - https://www.paypal.me/Afenar
+
 or
+
 WMZ -  Z208490309215
 
 Hello, My name is Afenar@Lich-King(Warsong\Shadowmoon) Btag Afenar#2323.
@@ -31,9 +33,9 @@ Rus:
 
 Если хотите поддержать мой энтузиазм ^_^:
 
-Paypal - https://www.paypal.me/Afenar
+PayPal - https://www.paypal.me/Afenar
 
-wmr - R401080485991
+WMR - R401080485991
 
 Добрый день, меня зовут Афенар@Король-лич(Варсонг\Шадоумун) Btag Afenar#2323.
 
