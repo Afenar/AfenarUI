@@ -31,7 +31,6 @@ For Excample, you would like to choose a Shadow Priest.
 - Enter "Shadow" Folder and copy all string the same way.
 
 
-
 Rus:
 
 
