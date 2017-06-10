@@ -4,8 +4,6 @@ If you'd like to support my enthusiasm ^_^:
 
 PayPal - https://www.paypal.me/Afenar
 
-or
-
 WMZ -  Z208490309215
 
 Hello, My name is Afenar@Lich-King(Warsong\Shadowmoon) Btag Afenar#2323.
