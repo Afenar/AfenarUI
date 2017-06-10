@@ -1,5 +1,6 @@
 |
 |
+
 Eng:
 
 If you'd like to support my enthusiasm ^_^:
@@ -7,8 +8,10 @@ If you'd like to support my enthusiasm ^_^:
 PayPal - https://www.paypal.me/Afenar
 
 WMZ -  Z208490309215
+
 |
 |
+
 Hello, My name is Afenar@Lich-King(Warsong\Shadowmoon) Btag Afenar#2323.
 
 There're all useful strings for importing to WeakAuras2 for ALL specs and classes in this branch. All utilities, CC's,
@@ -29,8 +32,10 @@ For Excample, you would like to choose a Shadow Priest.
     	- Priest_Essential (Every save\movement\rare procs buffs on you)
     	- So for other classes you can find some different groupes, and much more(like with druids)
 - Enter "Shadow" Folder and copy all string the same way.
+
 |
 |
+
 Rus:
 
 Если хотите поддержать мой энтузиазм ^_^:
@@ -38,8 +43,10 @@ Rus:
 PayPal - https://www.paypal.me/Afenar
 
 WMR - R401080485991
+
 |
 |
+
 Добрый день, меня зовут Афенар@Король-лич(Варсонг\Шадоумун) Btag Afenar#2323.
 
 Здесь Вы найдёте все строки для импорта в аддон WeakAuras2 ВСЕХ классов и спеков. Сюда входят ротации, контроли, сейвы,
