@@ -1,0 +1,121 @@
+{
+    ["backdropColor"] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 0.5,
+    },
+    ["controlledChildren"] = {
+        [1] = "HonorCircle",
+        [2] = "HonorAmt",
+        [3] = "HonorPrestige",
+        [4] = "HonorLevel",
+    },
+    ["borderBackdrop"] = "Blizzard Tooltip",
+    ["disjunctive"] = "all",
+    ["border"] = false,
+    ["untrigger"] = {
+    },
+    ["regionType"] = "group",
+    ["borderSize"] = 16,
+    ["activeTriggerMode"] = -10,
+    ["expanded"] = false,
+    ["xOffset"] = -612.06143188477,
+    ["anchorPoint"] = "CENTER",
+    ["borderOffset"] = 5,
+    ["borderColor"] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 0.5,
+    },
+    ["selfPoint"] = "BOTTOMLEFT",
+    ["additional_triggers"] = {
+    },
+    ["actions"] = {
+        ["start"] = {
+        },
+        ["finish"] = {
+        },
+        ["init"] = {
+        },
+    },
+    ["frameStrata"] = 1,
+    ["anchorFrameType"] = "SCREEN",
+    ["trigger"] = {
+        ["unit"] = "player",
+        ["type"] = "aura",
+        ["spellIds"] = {
+        },
+        ["subeventSuffix"] = "_CAST_START",
+        ["debuffType"] = "HELPFUL",
+        ["names"] = {
+        },
+        ["event"] = "Health",
+        ["subeventPrefix"] = "SPELL",
+    },
+    ["borderInset"] = 11,
+    ["numTriggers"] = 1,
+    ["animation"] = {
+        ["start"] = {
+            ["type"] = "none",
+            ["duration_type"] = "seconds",
+        },
+        ["main"] = {
+            ["type"] = "none",
+            ["duration_type"] = "seconds",
+        },
+        ["finish"] = {
+            ["type"] = "none",
+            ["duration_type"] = "seconds",
+        },
+    },
+    ["id"] = "Honor",
+    ["yOffset"] = -430.25420951843,
+    ["load"] = {
+        ["ingroup"] = {
+            ["multi"] = {
+            },
+        },
+        ["talent"] = {
+            ["multi"] = {
+            },
+        },
+        ["class"] = {
+        },
+        ["talent2"] = {
+            ["multi"] = {
+            },
+        },
+        ["difficulty"] = {
+            ["multi"] = {
+            },
+        },
+        ["race"] = {
+            ["multi"] = {
+            },
+        },
+        ["pvptalent"] = {
+            ["multi"] = {
+            },
+        },
+        ["faction"] = {
+            ["multi"] = {
+            },
+        },
+        ["role"] = {
+            ["multi"] = {
+            },
+        },
+        ["use_class"] = false,
+        ["spec"] = {
+            ["multi"] = {
+            },
+        },
+        ["size"] = {
+            ["multi"] = {
+            },
+        },
+    },
+    ["borderEdge"] = "None",
+}
