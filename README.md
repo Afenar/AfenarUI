@@ -29,7 +29,7 @@ For Excample, you would like to choose a Shadow Priest.
 	- Priest_Shadow_Extra.txt (Extra dynamic bar, complements main bar)
 	- Priest_Essential.txt(Basic procs, legendaries, utility buffs)
 	- Priest_Utilities/txt(saves, utilities, CCs, pvp cds, if you don't want to see this stuff - do not download)
-	
+To UPDATE new auras - delete old strings and import new one.
 
 |
 |
@@ -61,3 +61,4 @@ WMR - R401080485991
 	- Priest_Essential.txt(Основные проки, ускорения, трини, сеты, легендарки итп)
 	- Priest_Utilities/txt(Все сейвы\утилити\ускорения, контроли, пвп кд итп)
 	- Так же там могут быть комбо-поинты, разные энергии и прочее у других классов, следует копировать ВСЁ.
+Для ОБНОВЛЕНИЯ новых аур - удалите старые импорты и загрузите новые, не ставьте одни на другие.
