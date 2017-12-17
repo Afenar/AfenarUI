@@ -19,19 +19,17 @@ rotations, essentials for every class in WoW.
 
 !!!INSTALL OmniCC Addon\analogue!!!
 
-To import strings to your addon, you should click "RAW" and select all the text with CTRL+A and copy it with CTRL+C.
-Next you should go to your /wa in game, select "New Indication", you will see "import" option down there - push it and copy
-string from this GitHub. Wait for about 10 seconds, press "import" somewhere on your dekstop, so that's it ^_^.
+For Import just open a document, copy the code and and import it to your addon WeakAuras2 /wa "new indication"  in the game.
 
 Importation Process:
 For Excample, you would like to choose a Shadow Priest.
 - Enter "PriestUI".
-- Copy all groups from this Main folder(no exceptions):
- 	- Priest_CC(All CC and PvP dmg abilities for Priest Class)
-    	- Priest_Utilites (All utilities, saves, movement CDs, long CDs etc)
-    	- Priest_Essential (Every save\movement\rare procs buffs on you)
-    	- So for other classes you can find some different groupes, and much more(like with druids)
-- Enter "Shadow" Folder and copy all string the same way.
+- You should import ALL auras for final functionality:
+	- Priest_Shadow.txt(Main Abilities, rotation etc)
+	- Priest_Shadow_Extra.txt (Extra dynamic bar, complements main bar)
+	- Priest_Essential.txt(Basic procs, legendaries, utility buffs)
+	- Priest_Utilities/txt(saves, utilities, CCs, pvp cds, if you don't want to see this stuff - do not download)
+	
 
 |
 |
@@ -49,21 +47,17 @@ WMR - R401080485991
 
 Добрый день, меня зовут Афенар@Король-лич(Варсонг\Шадоумун) Btag Afenar#2323.
 
-Здесь Вы найдёте все строки для импорта в аддон WeakAuras2 ВСЕХ классов и спеков. Сюда входят ротации, контроли, сейвы,
-утилити.
-
+Здесь Вы найдёте все документы для импортов в аддон WeakAuras2 для каждого спека в игре: ротации, утилити, важные проки, всё, что необходимо вашему классу.
 !!!ОБЯЗАТЕЛЬНО УСТАНОВИТЕ АДДОН OmniCC или аналог!!!
 
-Для импорта в свой аддон просто кликаем на RAW, над самой строкой, выделяем всё - CTRL+A, копируем CTRL+C.
-Далее, заходим в Weakauras2 - /wa в игре, выбираем "новая индикация" и импорт, в самом низу, - туда и копируем строку, ждём от 1
-до 10 секунд, жмём "Импорт" и всё :).
+Для импорта заходите в нужный вам документ, выделяйте код и копируйте. Далее, в Weakauras2 - /wa в игре, выбираем "новая индикация" и импорт, в самом низу, - туда и копируем код, затем жмете "импорт" внизу.
 	
 Процесс импорта.
 К примеру, Вам нужен спек Жреца Тени. 
 - Заходим в PriestUI.
-- Копируем три основные группы аур(они всегда лежат в общей папке, возле папок со спеками):
-	- Priest_CC(Все контролируюшие+ атакующие пвп способности)
-	- Priest_Utilities(Все сейвы\утилити\ускорения и пр.)
-	- Priest_Essential(Важная группа сейвов\редких проков под ногами вашего чара)
+- Импортируем все основные группы_ОБЯЗАТЕЛЬНО импортируйте ВСЕ группы(Utility группа показывает только кд на сейвы, ускорения и контроли, если Вам это не нужно - можете не брать).
+	- Priest_Shadow.txt(Основне способности, ротации итп)
+	- Priest_Shadow_Extra.txt (Дополнительная динамическая группа аур, дополняет главный бар)
+	- Priest_Essential.txt(Основные проки, ускорения, трини, сеты, легендарки итп)
+	- Priest_Utilities/txt(Все сейвы\утилити\ускорения, контроли, пвп кд итп)
 	- Так же там могут быть комбо-поинты, разные энергии и прочее у других классов, следует копировать ВСЁ.
-- Заходим в папку с Shadow и импортируем к себе оттуда всё строки по такой же аналогии.
