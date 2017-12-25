@@ -17,6 +17,8 @@ Hello, My name is Afenar@Lich-King(Warsong\Shadowmoon) Btag Afenar#2323.
 There're all useful strings for importing to WeakAuras2 for ALL specs and classes in this branch. All utilities, CC's,
 rotations, essentials for every class in WoW.
 
+You can find the same collections here: https://wago.io/search/Type:+Collection+AfenarUI
+
 !!!INSTALL OmniCC Addon\analogue!!!
 
 For Import just open a document, copy the code and and import it to your addon WeakAuras2 /wa "new indication"  in the game.
@@ -48,6 +50,8 @@ WMR - R401080485991
 Добрый день, меня зовут Афенар@Король-лич(Варсонг\Шадоумун) Btag Afenar#2323.
 
 Здесь Вы найдёте все документы для импортов в аддон WeakAuras2 для каждого спека в игре: ротации, утилити, важные проки, всё, что необходимо вашему классу.
+
+Вы можете найти те же коллекции здесь: https://wago.io/search/Type:+Collection+AfenarUI
 
 !!!ОБЯЗАТЕЛЬНО УСТАНОВИТЕ АДДОН OmniCC или аналог!!!
 
