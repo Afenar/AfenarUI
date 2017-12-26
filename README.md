@@ -19,7 +19,9 @@ rotations, essentials for every class in WoW.
 
 You can find the same collections here: https://wago.io/search/Type:+Collection+AfenarUI
 
-!!!INSTALL OmniCC Addon\analogue!!!
+This collection uses textures and fonts form ElvUI, HalD and Details addons. Also You should install OmniCC\Cooldown plugin for ElvUI. Also, if you do not have Addon skins(with elvui) you can use Masque - ElvuiSkin addon.
+
+IMPORTANT NOTE: You have to download completely all collection to gain the same effect as on GIFs
 
 For Import just open a document, copy the code and and import it to your addon WeakAuras2 /wa "new indication"  in the game.
 
@@ -53,9 +55,10 @@ WMR - R401080485991
 
 Вы можете найти те же коллекции здесь: https://wago.io/search/Type:+Collection+AfenarUI
 
-!!!ОБЯЗАТЕЛЬНО УСТАНОВИТЕ АДДОН OmniCC или аналог!!!
-
-Для импорта заходите в нужный вам документ, выделяйте код и копируйте. Далее, в Weakauras2 - /wa в игре, выбираем "новая индикация" и импорт, в самом низу, - туда и копируем код, затем жмете "импорт" внизу.
+- Для полного соответствия паков аур тому, что изображено на GIF'ках, необходимо установить аддон OmniCC(либо аналог), поставить аддон Details. Так же в паке используются текстуры Addon skins(elvui - текстура аур), но можно поставить так же замену для аддона Masque - Elvuiskin.
+- Обязательно обновляйте WA2.
+- Чтобы пак аур полностью функционировал, требуется поставить все ауры для класса.
+- Перед обновлением аур удалите старые.
 	
 Процесс импорта.
 К примеру, Вам нужен спек Жреца Тени. 
