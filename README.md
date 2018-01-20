@@ -1,4 +1,4 @@
-|
+﻿|
 |
 
 Eng:
@@ -17,7 +17,7 @@ Hello, My name is Afenar@Lich-King(Warsong\Shadowmoon) Btag Afenar#2323.
 There're all useful strings for importing to WeakAuras2 for ALL specs and classes in this branch. All utilities, CC's,
 rotations, essentials for every class in WoW.
 
-You can find the same collections here: https://wago.io/search/Type:+Collection+AfenarUI
+You can find the same collections here: https://wago.io/rkd2gWbBM
 
 This collection uses textures and fonts form ElvUI, HalD and Details addons. Also You should install OmniCC\Cooldown plugin for ElvUI. Also, if you do not have Addon skins(with elvui) you can use Masque - ElvuiSkin addon.
 
@@ -53,7 +53,7 @@ WMR - R401080485991
 
 Здесь Вы найдёте все документы для импортов в аддон WeakAuras2 для каждого спека в игре: ротации, утилити, важные проки, всё, что необходимо вашему классу.
 
-Вы можете найти те же коллекции здесь: https://wago.io/search/Type:+Collection+AfenarUI
+Вы можете найти те же коллекции здесь: https://wago.io/rkd2gWbBM
 
 - Для полного соответствия паков аур тому, что изображено на GIF'ках, необходимо установить аддон OmniCC(либо аналог), поставить аддон Details. Так же в паке используются текстуры Addon skins(elvui - текстура аур), но можно поставить так же замену для аддона Masque - Elvuiskin.
 - Обязательно обновляйте WA2.
