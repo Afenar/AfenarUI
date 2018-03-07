@@ -19,6 +19,8 @@ rotations, essentials for every class in WoW.
 
 You can find the same collections here: https://wago.io/rkd2gWbBM
 
+Also you may join this discord to share your suggestions about WA's: https://discord.gg/cZVCTwB
+
 This collection uses textures and fonts form ElvUI, HalD and Details addons. Also You should install OmniCC\Cooldown plugin for ElvUI. Also, if you do not have Addon skins(with elvui) you can use Masque - ElvuiSkin addon.
 
 IMPORTANT NOTE: You have to download completely all collection to gain the same effect as on GIFs
@@ -54,6 +56,8 @@ WMR - R401080485991
 Здесь Вы найдёте все документы для импортов в аддон WeakAuras2 для каждого спека в игре: ротации, утилити, важные проки, всё, что необходимо вашему классу.
 
 Вы можете найти те же коллекции здесь: https://wago.io/rkd2gWbBM
+
+По немногочисленным предложениям хотел бы поделиться дискордом, где можно внести фидбек по определнным спекам в более удобной форме, был бы очень благодарен за Вашу помощь.https://discord.gg/cZVCTwB
 
 - Для полного соответствия паков аур тому, что изображено на GIF'ках, необходимо установить аддон OmniCC(либо аналог), поставить аддон Details. Так же в паке используются текстуры Addon skins(elvui - текстура аур), но можно поставить так же замену для аддона Masque - Elvuiskin.
 - Обязательно обновляйте WA2.
