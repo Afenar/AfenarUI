@@ -4,10 +4,8 @@
 Eng:
 
 If you'd like to support my enthusiasm ^_^:
-
+Patreon - http://www.patreon.com/afenar
 PayPal - https://www.paypal.me/Afenar
-
-WMZ -  Z208490309215
 
 |
 |
@@ -44,9 +42,9 @@ Rus:
 
 Если хотите поддержать мой энтузиазм ^_^:
 
+Patreon - http://www.patreon.com/afenar
 PayPal - https://www.paypal.me/Afenar
 
-WMR - R401080485991
 
 |
 |
