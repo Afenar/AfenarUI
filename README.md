@@ -1,14 +1,10 @@
-﻿|
-|
-
-Eng:
+# Eng
 
 If you'd like to support my enthusiasm ^_^:
 Patreon - http://www.patreon.com/afenar
 PayPal - https://www.paypal.me/Afenar
 
-|
-|
+----
 
 Hello, My name is Afenar@Lich-King(Warsong\Shadowmoon) Btag Afenar#2323.
 
@@ -35,19 +31,16 @@ For Excample, you would like to choose a Shadow Priest.
 	- Priest_Utilities/txt(saves, utilities, CCs, pvp cds, if you don't want to see this stuff - do not download)
 To UPDATE new auras - delete old strings and import new one.
 
-|
-|
+----
 
-Rus:
+# Rus
 
 Если хотите поддержать мой энтузиазм ^_^:
 
 Patreon - http://www.patreon.com/afenar
 PayPal - https://www.paypal.me/Afenar
 
-
-|
-|
+----
 
 Добрый день, меня зовут Афенар@Король-лич(Варсонг\Шадоумун) Btag Afenar#2323.
 
